@@ -1,0 +1,11 @@
+# Local Terraform files and secrets
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+*.tfplan
+backend.hcl
+crash.log
+*.pem
+*.key
