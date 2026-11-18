@@ -1,1 +1,0 @@
-# Arrise-Ravi-AWS-Assessment
